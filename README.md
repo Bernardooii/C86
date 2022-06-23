@@ -1,1 +1,2 @@
-# C86
+# espectagrama
+project solution c85
